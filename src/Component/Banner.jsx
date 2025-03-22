@@ -1,8 +1,6 @@
 import React from "react";
 
 import "./banner.css";
-
-import img1 from "../assets/photo.jpeg";
 import { Linkedin, Github, Envelope } from "react-bootstrap-icons";
 const Banner = () => {
   return (
