@@ -1,0 +1,22 @@
+.menu {
+  font-weight: bold;
+  font-size: 18px;
+  
+}
+.navLight {
+  border-color: black !important;
+  color: black !important;
+}
+
+.lightMode {
+  color: black !important;
+}
+.darkMode {
+  color: white !important;
+}
+.menu:hover {
+  color: var(--btn-color) !important;
+}
+/* .nav-menu{
+    background-color: var(--primary-color);
+} */

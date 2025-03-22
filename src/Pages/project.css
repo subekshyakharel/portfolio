@@ -1,0 +1,36 @@
+.project{
+  min-height: 70vh;
+}
+.projectContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+  max-width: 1000px;
+  margin: auto;
+}
+.projectSection1,.projectSection2{
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+}
+.img{
+  flex-basis: 40%;
+}
+.description{
+  flex-basis: 50%;
+
+}
+
+@media screen  and (max-width:992px) {
+
+.projectSection1{
+  flex-direction: column;
+}
+.description{
+  padding-top: 40px;
+}
+.projectSection2{
+  flex-direction: column-reverse;
+}
+  
+}

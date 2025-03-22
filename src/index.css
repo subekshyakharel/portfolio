@@ -1,0 +1,31 @@
+:root {
+  --primary-color: #222c32; 
+  --btn-color:#f95654;
+  --secondary-color:#2a2345;
+}
+.webpage{
+  background-color: var(--primary-color);
+  padding-left:  20px;
+  padding-right:20px;
+  position: relative;
+  
+}
+.custom-color{
+  color:var(--btn-color) !important;
+}
+.webpage{
+  position: relative;
+}
+.container-sec {
+  min-height: 70vh;
+  max-width: 1000px;
+  margin: auto;
+  
+}
+.toggle {
+  color: var(--btn-color);
+}
+a{
+  text-decoration: none;
+  color: black;
+}

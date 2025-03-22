@@ -1,0 +1,10 @@
+.custom-vertical-timeline::before {
+    background-color: var(--btn-color);
+    /* max-width: 800px;
+  margin: auto; */
+  }
+
+  .academic-box{
+    max-width: 1000px;
+    margin: auto;
+  }
