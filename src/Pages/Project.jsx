@@ -1,11 +1,7 @@
 import React, { useState } from "react";
 import { Container } from "react-bootstrap";
 import "./project.css";
-import client from "../assets/ecom-client.png";
 import trailerworld from "../assets/trailerworld.png";
-import admin from "../assets/ecom-admin.png";
-import movie from "../assets/movie.png";
-import expensestracker from "../assets/expensestracker.png"
 const Project = ({ brightNess }) => {
 
   return (

@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../Component/Header";
 import "./landingpage.css";
 import { Container, Nav } from "react-bootstrap";
 import Banner from "../Component/Banner";
