@@ -60,7 +60,7 @@ const AcademicBackground = ({brightNess}) => {
 
         <VerticalTimelineElement
           className="vertical-timeline-element--education "
-          date="October 2023 - Jan 2024"
+          // date="October 2023 - Jan 2024"
           contentStyle={{
             background: "inherit",
             boxShadow: "5px 5px 5px  black",
